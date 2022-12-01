@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main",""]],"struct":[["City","this is the struct for the city variables "],["Color","this is the struct for the color variables "]]};
